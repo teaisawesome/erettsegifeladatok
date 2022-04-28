@@ -1,0 +1,7 @@
+C:\Users\Felhasználó\source\repos\erettsegi20210517\bin\Debug\erettsegi20210517.exe.config
+C:\Users\Felhasználó\source\repos\erettsegi20210517\bin\Debug\erettsegi20210517.exe
+C:\Users\Felhasználó\source\repos\erettsegi20210517\bin\Debug\erettsegi20210517.pdb
+C:\Users\Felhasználó\source\repos\erettsegi20210517\obj\Debug\erettsegi20210517.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\source\repos\erettsegi20210517\obj\Debug\erettsegi20210517.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\erettsegi20210517\obj\Debug\erettsegi20210517.exe
+C:\Users\Felhasználó\source\repos\erettsegi20210517\obj\Debug\erettsegi20210517.pdb
